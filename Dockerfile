@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:trusty
 MAINTAINER stauraum <kai.schubert@systemmanager.org>
 
 ENV DEBIAN_FRONTEND noninteractive
