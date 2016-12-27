@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu-debootstrap:trusty
 MAINTAINER stauraum <kai.schubert@systemmanager.org>
 
 ENV DEBIAN_FRONTEND noninteractive
